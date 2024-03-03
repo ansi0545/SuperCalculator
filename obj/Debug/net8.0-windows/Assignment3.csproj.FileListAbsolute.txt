@@ -1,0 +1,16 @@
+C:\source\repos\c#\SuperCalculator\bin\Debug\net8.0-windows\Assignment3.exe
+C:\source\repos\c#\SuperCalculator\bin\Debug\net8.0-windows\Assignment3.deps.json
+C:\source\repos\c#\SuperCalculator\bin\Debug\net8.0-windows\Assignment3.runtimeconfig.json
+C:\source\repos\c#\SuperCalculator\bin\Debug\net8.0-windows\Assignment3.dll
+C:\source\repos\c#\SuperCalculator\bin\Debug\net8.0-windows\Assignment3.pdb
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\Assignment3.csproj.GenerateResource.cache
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\Assignment3.AssemblyInfoInputs.cache
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\Assignment3.AssemblyInfo.cs
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\Assignment3.csproj.CoreCompileInputs.cache
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\Assignment3.dll
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\refint\Assignment3.dll
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\Assignment3.pdb
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\Assignment3.genruntimeconfig.cache
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\ref\Assignment3.dll
+C:\source\repos\c#\SuperCalculator\obj\Debug\net8.0-windows\Assignment3.MainForm.resources

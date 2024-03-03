@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment3", "Assignment3.csproj", "{6C814FA9-BB94-4AA1-B96E-A8FF4F9D0FAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CalculatorClasses", "CalculatorClasses", "{B6403EFA-BCA6-408B-8860-CC4A8D19572A}"
+	ProjectSection(SolutionItems) = preProject
+		BMICalculator.cs = BMICalculator.cs
+		BMRCalculator.cs = BMRCalculator.cs
+		SavingsCalculator.cs = SavingsCalculator.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C814FA9-BB94-4AA1-B96E-A8FF4F9D0FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C814FA9-BB94-4AA1-B96E-A8FF4F9D0FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C814FA9-BB94-4AA1-B96E-A8FF4F9D0FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C814FA9-BB94-4AA1-B96E-A8FF4F9D0FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37C59F50-E166-4A95-883F-4634414749D6}
+	EndGlobalSection
+EndGlobal
